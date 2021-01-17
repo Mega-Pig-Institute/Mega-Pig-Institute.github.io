@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on Forty</title>
+    <link>http://example.org/blogs/</link>
+    <description>Recent content in Lifestyle on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI-based deep learning</title>
+      <link>http://example.org/blogs/deep/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/deep/</guid>
+      <description>Genomic selection has been a hot spot in agricultural breeding. Comparing with traditional breeding strategy, it provides opportunities to improve genetic gains for many complex traits. Past research in genomic selection mainly focused on building statistical models that predict phenotypes by genotype data alone. It is well known that information flows from DNA to phenotype through multiple layers of regulatory networks and intermediate molecular phenotypes. Thus, we believe that artificial intelligence models that capture the architecture of information flow would greatly improve the phenotype prediction accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain-based pork tracing</title>
+      <link>http://example.org/blogs/pork/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/pork/</guid>
+      <description>Meat safety assurance and traceability is a major challenge in pork industry. For example, most current systems of product quality inspection relies on 3rd party supervision and still adopts random inspection methods, with information poorly organized and vulnerable to manipulation. Featured with distributed storage and immutability, the blockchain technology has shown broad application prospects in building trust for the field of food traceability. Moreover, blockchain-based intelligent contracts allow for rapid real-time whole supply chain-level alarming and subsequent actions, whenever a food safety issue arises.</description>
+    </item>
+    
+    <item>
+      <title>Genome Editing</title>
+      <link>http://example.org/blogs/editing/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/editing/</guid>
+      <description>As a simple and highly efficient genome editing tool, the CRISPR system has been quickly and widely adopted in life sciences, basic medicine, and agricultural breeding. Our institute is committed to leading the optimization and application of the CRISPR system in animals. We have developed the “C-CRISPR” technology, which could obtain, in the F0 generation, mice and monkeys with completely knockout of single or multiple genes. We further modified CRISPR system to allow for knockout of a whole chromosome.</description>
+    </item>
+    
+    <item>
+      <title>Humanized antibody</title>
+      <link>http://example.org/blogs/antibody/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/antibody/</guid>
+      <description>Pigs are similar to humans in terms of body size, physiology, organ development, and disease etiology. Compared to horses, cattle and other large animals, pigs have a great advantage in fecundity. Therefore, pigs hold the promise of functioning as a biologics factory to efficiently produce humanized antibodies. We are aiming at introducing human immunoglobulin genes to replace the pig counterparts in pig embryonic stem cells, thereby building an anti-infective drug production platform.</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics</title>
+      <link>http://example.org/blogs/omics/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/omics/</guid>
+      <description>Most pig economic traits are complex traits, which are under the regulation of complex interaction among multiple genes. Thus, understanding the genetic architecture of these traits would greatly benefit from approaches integrating multi-omics data, such as genomics, epgienomics, transcriptomics, proteomics and metabolomics, etc.. Here, we are developing novel experimental methods and computational methods to integrate multi-omics data to elucidate the genetic basis of important economic traits of pigs. We are also continuously expanding our germplasm resources to profile genetic variation and phenotypic variation both at the organism-trait level and the molecular-trait level.</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics</title>
+      <link>http://example.org/blogs/omics/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/omics/</guid>
+      <description>Most pig economic traits are complex traits, which are under the regulation of complex interaction among multiple genes. Thus, understanding the genetic architecture of these traits would greatly benefit from approaches integrating multi-omics data, such as genomics, epgienomics, transcriptomics, proteomics and metabolomics, etc.. Here, we are developing novel experimental methods and computational methods to integrate multi-omics data to elucidate the genetic basis of important economic traits of pigs. We are also continuously expanding our germplasm resources to profile genetic variation and phenotypic variation both at the organism-trait level and the molecular-trait level.</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology</title>
+      <link>http://example.org/blogs/synthetic/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/synthetic/</guid>
+      <description>Following reading and decoding the information in animal genomes, using synthetic biology approaches to modify or even build a genome, will fundamentally transform how we grow food, what we eat and where we source materials and medicines. With an idea of “synthetic breeding”, We are dedicated to building a pig synthetic biology platform, to collect and aggregate the DNA sequences causing superior phenotypes into in a same pig line, which was named “Superpig”.</description>
+    </item>
+    
+  </channel>
+</rss>
