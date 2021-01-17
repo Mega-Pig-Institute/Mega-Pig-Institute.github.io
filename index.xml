@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forty</title>
+    <title>Mega Pig Institute</title>
     <link>https://Mega-Pig-Institute.github.io/</link>
-    <description>Recent content on Forty</description>
+    <description>Recent content on Mega Pig Institute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -45,15 +45,6 @@
       
       <guid>https://Mega-Pig-Institute.github.io/blogs/antibody/</guid>
       <description>Pigs are similar to humans in terms of body size, physiology, organ development, and disease etiology. Compared to horses, cattle and other large animals, pigs have a great advantage in fecundity. Therefore, pigs hold the promise of functioning as a biologics factory to efficiently produce humanized antibodies. We are aiming at introducing human immunoglobulin genes to replace the pig counterparts in pig embryonic stem cells, thereby building an anti-infective drug production platform.</description>
-    </item>
-    
-    <item>
-      <title>Multi-omics</title>
-      <link>https://Mega-Pig-Institute.github.io/blogs/omics/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://Mega-Pig-Institute.github.io/blogs/omics/</guid>
-      <description>Most pig economic traits are complex traits, which are under the regulation of complex interaction among multiple genes. Thus, understanding the genetic architecture of these traits would greatly benefit from approaches integrating multi-omics data, such as genomics, epgienomics, transcriptomics, proteomics and metabolomics, etc.. Here, we are developing novel experimental methods and computational methods to integrate multi-omics data to elucidate the genetic basis of important economic traits of pigs. We are also continuously expanding our germplasm resources to profile genetic variation and phenotypic variation both at the organism-trait level and the molecular-trait level.</description>
     </item>
     
     <item>
