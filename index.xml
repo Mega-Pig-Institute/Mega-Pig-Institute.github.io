@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>AI-based deep learning</title>
+      <link>https://superpig-plan.github.io/test/deep/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://superpig-plan.github.io/test/deep/</guid>
+      <description>Genomic selection has been a hot spot in agricultural breeding. Comparing with traditional breeding strategy, it provides opportunities to improve genetic gains for many complex traits. Past research in genomic selection mainly focused on building statistical models that predict phenotypes by genotype data alone. It is well known that information flows from DNA to phenotype through multiple layers of regulatory networks and intermediate molecular phenotypes. Thus, we believe that artificial intelligence models that capture the architecture of information flow would greatly improve the phenotype prediction accuracy.</description>
+    </item>
+    
+    <item>
       <title>Blockchain-based pork tracing</title>
       <link>https://superpig-plan.github.io/blogs/pork/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
@@ -30,11 +39,29 @@
     </item>
     
     <item>
+      <title>Blockchain-based pork tracing</title>
+      <link>https://superpig-plan.github.io/test/pork/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://superpig-plan.github.io/test/pork/</guid>
+      <description>Meat safety assurance and traceability is a major challenge in pork industry. For example, most current systems of product quality inspection relies on 3rd party supervision and still adopts random inspection methods, with information poorly organized and vulnerable to manipulation. Featured with distributed storage and immutability, the blockchain technology has shown broad application prospects in building trust for the field of food traceability. Moreover, blockchain-based intelligent contracts allow for rapid real-time whole supply chain-level alarming and subsequent actions, whenever a food safety issue arises.</description>
+    </item>
+    
+    <item>
       <title>Genome Editing</title>
       <link>https://superpig-plan.github.io/blogs/editing/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>https://superpig-plan.github.io/blogs/editing/</guid>
+      <description>As a simple and highly efficient genome editing tool, the CRISPR system has been quickly and widely adopted in life sciences, basic medicine, and agricultural breeding. Our institute is committed to leading the optimization and application of the CRISPR system in animals. We have developed the “C-CRISPR” technology, which could obtain, in the F0 generation, mice and monkeys with completely knockout of single or multiple genes. We further modified CRISPR system to allow for knockout of a whole chromosome.</description>
+    </item>
+    
+    <item>
+      <title>Genome Editing</title>
+      <link>https://superpig-plan.github.io/test/editing/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://superpig-plan.github.io/test/editing/</guid>
       <description>As a simple and highly efficient genome editing tool, the CRISPR system has been quickly and widely adopted in life sciences, basic medicine, and agricultural breeding. Our institute is committed to leading the optimization and application of the CRISPR system in animals. We have developed the “C-CRISPR” technology, which could obtain, in the F0 generation, mice and monkeys with completely knockout of single or multiple genes. We further modified CRISPR system to allow for knockout of a whole chromosome.</description>
     </item>
     
